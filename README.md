@@ -5,7 +5,7 @@
 
 > *Учебный одностраничный лендинг с поддержкой светлой и тёмной темы оформления.*
 
-![Превью](translation/media/1.png)
+![Превью](translation/media/preview.png)
 
 ## 🧪 О проекте
 
@@ -39,13 +39,11 @@
 2. Открыть `index.html` в браузере.
 >❗ Не требует установки или сборки. Все файлы — статические.
 
-
 ## 📸 Галерея
-
-
 
 https://github.com/user-attachments/assets/9bf6a008-1373-40d7-b688-7f9b76dca072
 
+<img src="translation/media/company-light.png" width="45%"></img> <img src="translation/media/company-dark.png" width="45%"></img> <img src="translation/media/info-light.png" width="45%"></img> <img src="translation/media/info-dark.png" width="45%"></img>
 
 ## 📱 Адаптивность
 
