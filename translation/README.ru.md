@@ -1,7 +1,7 @@
 # 🌗 Лендинг с разными темами
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Bit-Maximum/Quest-Book-WEB/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Bit-Maximum/Quest-Book-WEB/blob/master/translation/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Bit-Maximum/Multi-Theme-Lending/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Bit-Maximum/Multi-Theme-Lending/blob/main/translation/README.ru.md)
 
 > *Учебный одностраничный лендинг с поддержкой светлой и тёмной темы оформления.*
 
@@ -19,7 +19,7 @@
 
 Если у вас установлен [Docker](https://www.docker.com/), вы можете запустить проект в контейнере:
    ```bash
-   docker run -d -p 8080:80 bitmaximum/quest-book-web:latest
+   docker run -d -p 8080:80 bitmaximum/multi-theme-lending:latest
    ```
 Сайт будет доступен по адресу: `http://localhost:8080`
 
@@ -27,7 +27,7 @@
 
 1. Склонировать репозиторий:
    ```bash
-   git clone https://github.com/Bit-Maximum/Quest-Book-WEB
+   git clone https://github.com/Bit-Maximum/Multi-Theme-Lending
    ```
 
 2. Открыть `index.html` в браузере.

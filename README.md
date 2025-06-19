@@ -1,57 +1,57 @@
-# 🌗 Лендинг с разными темами
+# 🌗 Multi-Theme Landing Page
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Bit-Maximum/Quest-Book-WEB/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Bit-Maximum/Quest-Book-WEB/blob/master/translation/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Bit-Maximum/Multi-Theme-Lending/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Bit-Maximum/Multi-Theme-Lending/blob/main/translation/README.ru.md)
 
-> *Учебный одностраничный лендинг с поддержкой светлой и тёмной темы оформления.*
+> *A training single-page landing site with support for light and dark themes.*
 
-![Превью](translation/media/preview.png)
+![Preview](translation/media/preview.png)
 
-## 🧪 О проекте
+## 🧪 About the Project
 
-Этот проект был выполнен мной в качестве **тренировки по вёрстке**. Основная цель — отработать навыки создания современного одностраничного сайта с **поддержкой смены темы оформления (светлая / тёмная)**. Тем не менее проект не несёт прикладной функции.
+This project was created as **practice in layout development**. The main goal was to improve skills in building a modern single-page website with **theme switching support (light/dark)**. The project does not serve any specific practical purpose beyond that.
 
-## 💡 Особенности
-- 💡 Светлая и тёмная тема
-- 💻 Адаптивная вёрстка для мобильных и десктопных устройств
-- 🧱 Чистый и минималистичный дизайн
-- 📄 Статическая верстка без сборщиков и фреймворков
+## 💡 Features
+- 💡 Light and dark theme toggle
+- 💻 Responsive layout for both mobile and desktop devices
+- 🧱 Clean and minimalist design
+- 📄 Static layout without build tools or frameworks
 
-## 🚀 Запуск проекта
+## 🚀 How to Run
 
-Проект можно открыть с помощью Docker или локально:
+The project can be launched via Docker or locally:
 
-### 🐳 Запуск в Docker
+### 🐳 Run with Docker
 
-Если у вас установлен [Docker](https://www.docker.com/), вы можете запустить проект в контейнере:
+If you have [Docker](https://www.docker.com/) installed, you can run the project in a container:
    ```bash
-   docker run -d -p 8080:80 bitmaximum/quest-book-web:latest
+   docker run -d -p 8080:80 bitmaximum/multi-theme-lending:latest
    ```
-Сайт будет доступен по адресу: `http://localhost:8080`
+The site will be available at: `http://localhost:8080`
 
-### (Альтернативно) Запуск локально:
+### (Alternative) Run Locally:
 
-1. Склонировать репозиторий:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Bit-Maximum/Quest-Book-WEB
+   git clone https://github.com/Bit-Maximum/Multi-Theme-Lending
    ```
 
-2. Открыть `index.html` в браузере.
->❗ Не требует установки или сборки. Все файлы — статические.
+2. Open `index.html` in your browser.
+>❗ No installation or build step is required. All files are static.
 
-## 📸 Галерея
+## 📸 Gallery
 
 https://github.com/user-attachments/assets/9bf6a008-1373-40d7-b688-7f9b76dca072
 
 <img src="translation/media/company-light.png" width="45%"></img> <img src="translation/media/company-dark.png" width="45%"></img> <img src="translation/media/info-light.png" width="45%"></img> <img src="translation/media/info-dark.png" width="45%"></img>
 
-## 📱 Адаптивность
+## 📱 Responsiveness
 
-Сайт оптимизирован как для настольных, так и для мобильных устройств. Использованы гибкие сетки и медиа-запросы для комфортного чтения на разных экранах.
+The site is optimized for both desktop and mobile screens. Flexible grid layouts and media queries were used to ensure a comfortable reading experience across various devices.
 
 
-## ⚙️ Используемые технологии
+## ⚙️ Stack
 
 - HTML5
 - CSS
-- JavaScript (чистый)
+- JavaScript (pure)
